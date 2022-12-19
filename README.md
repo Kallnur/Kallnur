@@ -8,10 +8,6 @@
 
 <h5 align="center">
     <code>
-        <!-- <a href="https://www.linkedin.com/in/erzhan-atabekov-648670242" title="LinkedIn Profile">
-            <img width="22" src="images/linkedin.svg"> 
-            LinkedIn
-        </a> -->
         &nbsp;
         <a href="https://t.me/Atabekov_Erjan">
             <img width="22" src="images/telegram.png">
