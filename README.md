@@ -2,28 +2,17 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Jhf shdkashd sh jh fsd fskdhsueh  sgdfsdfh fhsdhf sdfsjhfs&center=true&size=30">
 </a>
 </h1>
 
 <h5 align="center">
     <code>
         &nbsp;
-        <a href="https://t.me/Atabekov_Erjan"><img width="22" src="images/telegram.png">Telegram</a>
+        <a href="https://t.me/Atabekov_Erzhan"><img width="22" src="images/telegram.png">Telegram</a>
     </code>
 </h5>
 <br>
-<p align="center">
-    Hi, I'm Atabekov Erzhan, Front-End Developer & from Bishkek
-    <br>
-    💻 Software Engineer with understanding of web development methodologies
-    <br>
-    🌱 Now I mainly do front-end development and research <a href="https://feature-sliced.design">Feature-Sliced Design</a> methodology
-    <br>
-    📫 How to reach me: <a href="mailto: atabekov.erjan.front@gmail.com">atabekov.erjan.front@gmail.com</a>
-    <!--  TODO: about feature sliced design -->
-</p>
-
 <hr>
 
 <!-- icons https://ileriayo.github.io/markdown-badges/ -->
